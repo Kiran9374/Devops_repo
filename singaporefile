@@ -5,3 +5,4 @@ git --version
 git which
 git add.
 git commit singapur -m "new commit"
+git push origin master
