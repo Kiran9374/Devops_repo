@@ -8,3 +8,4 @@ git commit singapur -m "new commit"
 git push origin master
 git tag -a "important" -m "new tag" <commit ID>
 git clone <central repo Url>
+git stash 
